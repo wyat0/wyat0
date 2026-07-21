@@ -1,88 +1,73 @@
 <div align="center">
 
-# Hi, I'm Kayera
+# Lucas
 
-### Java & Python Developer • GUI Designer • Open Source Enthusiast
+### Software Developer • Python Enthusiast • Open Source
 
-Building modern desktop applications with Python while continuously expanding my knowledge in software engineering, system architecture, and user interface design.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+I'm a developer passionate about building modern applications, experimenting with new technologies, and creating clean, maintainable software.
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a passionate software developer focused on creating clean, efficient, and user-friendly applications.
+I'm currently focused on developing desktop applications with Python while continuously improving my knowledge in software engineering.
 
-My main interests include:
-
-- Desktop application development
-- Python GUI programming
-- Java development
-- Software architecture
-- Open Source projects
-
-I enjoy learning new technologies, experimenting with different frameworks, and continuously improving my coding skills through personal projects.
+I enjoy working on personal projects, learning new technologies, and turning ideas into polished applications.
 
 ---
 
-# Current Focus
+## Languages & Skills
 
-- Developing modern Python GUIs
-- Improving Java development skills
-- Creating reusable libraries
-- Learning advanced software design patterns
-
----
-
-# Technologies
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python,java,js,ts)
-
-### Frameworks & Tools
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,nodejs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-# GitHub Statistics
+## Currently Working On
+
+- Desktop GUI applications
+- Python projects
+- Open Source contributions
+- Improving software architecture
+- Learning new frameworks
+
+---
+
+## GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=github_dark" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=github_dark" height="170">
 </p>
 
 ---
 
-# Featured Project
+## Featured Projects
 
-## Python GUI Collection
-
-A collection of graphical user interfaces built with Python, showcasing different layouts, components, and desktop application concepts.
-
-> More projects are coming soon.
+- Python GUI Collection
+- Automation Tools
+- Desktop Utilities
+- Experimental Projects
 
 ---
 
-# Goals for 2026
+## Goals
 
-- Build high-quality open source software
-- Publish more Python libraries
-- Learn new technologies every month
-- Contribute to community projects
-- Grow as a software engineer
+- Build useful software
+- Improve every project
+- Write clean and maintainable code
+- Learn something new every day
 
 ---
 
 <div align="center">
 
-*"Code should not only work — it should be clean, maintainable, and enjoyable to build."*
+*"Keep building. Keep learning."*
 
 </div>
