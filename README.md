@@ -1,73 +1,49 @@
 <div align="center">
 
-# Lucas
+Lucas
+Website Designer | Frontend Developer | UI/UX Enthusiast
 
-### Software Developer • Python Enthusiast • Open Source
-
-I'm a developer passionate about building modern applications, experimenting with new technologies, and creating clean, maintainable software.
+I design and develop modern, responsive, and visually appealing websites with a focus on clean layouts, intuitive user experiences, and professional design.
 
 </div>
 
----
+About Me
 
-## About Me
+I am a website designer passionate about creating modern digital experiences that combine creativity, functionality, and usability.
 
-I'm currently focused on developing desktop applications with Python while continuously improving my knowledge in software engineering.
+My focus is on designing responsive websites with clean interfaces, consistent styling, and attention to detail. I continuously explore new design trends and web technologies to improve my skills and deliver engaging digital experiences.
 
-I enjoy working on personal projects, learning new technologies, and turning ideas into polished applications.
+Skills & Technologies
 
----
+!HTML5 !CSS3 !JavaScript !Figma !Git !GitHub
 
-## Languages & Skills
+Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I am focused on improving my website design workflow, creating responsive layouts, refining user interfaces, and exploring modern frontend technologies.
 
----
+I strive to build websites that are visually appealing, accessible, easy to navigate, and optimized for different screen sizes.
 
-## Currently Working On
+GitHub Statistics
 
-- Desktop GUI applications
-- Python projects
-- Open Source contributions
-- Improving software architecture
-- Learning new frameworks
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wyat0&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyat0&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used programming languages" />
+</div>
 
----
+Featured Work
 
-## GitHub
+My work focuses on modern website layouts, responsive web interfaces, creative landing pages, and user interface concepts.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=github_dark" height="170">
+I aim to create digital experiences that combine strong visual design with practical functionality, consistency, and usability.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=github_dark" height="170">
-</p>
+Professional Goals
 
----
+My goal is to develop my expertise in website design, refine my visual style, and create meaningful digital experiences using modern design principles and web technologies.
 
-## Featured Projects
-
-- Python GUI Collection
-- Automation Tools
-- Desktop Utilities
-- Experimental Projects
-
----
-
-## Goals
-
-- Build useful software
-- Improve every project
-- Write clean and maintainable code
-- Learn something new every day
-
----
+I believe great websites combine clarity, creativity, performance, and attention to detail.
 
 <div align="center">
 
-*"Keep building. Keep learning."*
+"Design with purpose. Create with precision."
 
 </div>
